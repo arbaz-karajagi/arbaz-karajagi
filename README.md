@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&height=50&lines=Hi+there!+Welcome+to+%3CArbaz%3E+GitHub!+++++;Full+Stack+%7C+Mern+Stack+Developer.;Execute+To+Evolve..." alt="full stack mern web developer" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=950&height=50&lines=Hi+there!+Welcome+to+%3CArbaz%3E+GitHub!+++++;Full+Stack+%7C+Mern+Stack+Developer.;Execute+To+Evolve..." alt="full stack mern web developer" /></a>
 
  
 <h1 align="center"> Full Stack Developer || MERN Stack  </h1>
